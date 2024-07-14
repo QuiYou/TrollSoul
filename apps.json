@@ -1,19 +1,19 @@
 {
   "name": "iRonMan",
   "identifier": "com.ironMan.cola",
-  "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
+  "sourceURL": "https://raw.githubusercontent.com/QuiYou/TrollSoul/main/apps.json",
   "apps": [
     {
       "name": "ironMan",
       "bundleIdentifier": "com.ironMan.cola",
       "developerName": "Mr_Laote",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ubercab.UberEats.png",
+      "iconURL": "https://raw.githubusercontent.com/QuiYou/TrollSoul/main/icons/AppIcon.png",
       "versions": [
         {
           "version": "2.1.6",
           "date": "2024-07-15",
           "size": 86639490,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/UberEats.ipa",
+          "downloadURL": "https://github.com/QuiYou/TrollSoul/releases/download/iRonMan_v2.1.6/ironMan_2.1.6.ipa",
           "localizedDescription": "iRonMan \"Minimum iOS x required\" banner in the App Store\nLast updated: 10-26-2022\nStatus: \u26a0\ufe0f"
         }
       ]
